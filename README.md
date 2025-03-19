@@ -1,7 +1,10 @@
 ### Redis docker for Egress Server (for local development)
 
 Goto redis.conf for configuration
-
+```bash
+~/redis/redis.conf
+```
+To start the container:
 ```bash
 docker-compose up -d
 ```
